@@ -4,7 +4,7 @@
     <!-- Required Font -->
     <font>
       <name>font13</name>
-      <filename>Glory-Regular.ttf</filename>
+      <filename>Inter-Regular.ttf</filename>
       <size>30</size>
     </font>
     <!-- Monospace Fonts -->
@@ -17,185 +17,185 @@
     <font>
       <name>font_tiny_hintlabel</name>
       <style>uppercase</style>
-      <filename>Glory-Bold.ttf</filename>
+      <filename>Inter-Bold.ttf</filename>
       <size>18</size>
     </font>
     <font>
       <name>font_tiny10</name>
-      <filename>Glory-Regular.ttf</filename>
+      <filename>Inter-Regular.ttf</filename>
       <size>20</size>
     </font>
     <font>
       <name>font_tiny_match</name>
-      <filename>Glory-Regular.ttf</filename>
+      <filename>Inter-Regular.ttf</filename>
       <size>20</size>
       <style>bold</style>
     </font>
     <!-- Small Fonts -->
     <font>
       <name>font_small_pvr_channels_bold</name>
-      <filename>Glory-Bold.ttf</filename>
+      <filename>Inter-Bold.ttf</filename>
       <size>23</size>
     </font>
     <font>
       <name>font_small_notify_main_bold</name>
-      <filename>Glory-Bold.ttf</filename>
+      <filename>Inter-Bold.ttf</filename>
       <size>23</size>
       <style>bold</style>
       <linespacing>0.8</linespacing>
     </font>
     <font>
       <name>font_small_defaults</name>
-      <filename>Glory-Regular.ttf</filename>
+      <filename>Inter-Regular.ttf</filename>
       <size>25</size>
     </font>
     <font>
       <name>font12</name>
-      <filename>Glory-Regular.ttf</filename>
+      <filename>Inter-Regular.ttf</filename>
       <size>25</size>
     </font>
     <font>
       <name>font_small_header</name>
-      <filename>Glory-Regular.ttf</filename>
+      <filename>Inter-Regular.ttf</filename>
       <size>25</size>
       <style>uppercase bold</style>
     </font>
     <font>
       <name>font27</name>
-      <filename>Glory-Regular.ttf</filename>
+      <filename>Inter-Regular.ttf</filename>
       <size>27</size>
     </font>
     <font>
       <name>font27_narrow</name>
-      <filename>Glory-Regular.ttf</filename>
+      <filename>Inter-Regular.ttf</filename>
       <size>27</size>
       <linespacing>0.8</linespacing>
     </font>
     <font>
       <name>font27_bold</name>
-      <filename>Glory-Bold.ttf</filename>
+      <filename>Inter-Bold.ttf</filename>
       <size>27</size>
       <linespacing>0.8</linespacing>
     </font>
     <font>
       <name>font_small_pvr_title</name>
-      <filename>Glory-Bold.ttf</filename>
+      <filename>Inter-Bold.ttf</filename>
       <size>30</size>
     </font>
     <!-- Normal Fonts -->
     <font>
       <name>font14</name>
-      <filename>Glory-Regular.ttf</filename>
+      <filename>Inter-Regular.ttf</filename>
       <size>33</size>
     </font>
     <font>
       <name>font32</name>
-      <filename>Glory-Regular.ttf</filename>
+      <filename>Inter-Regular.ttf</filename>
       <size>32</size>
     </font>
     <font>
       <name>font32_bold</name>
-      <filename>Glory-Bold.ttf</filename>
+      <filename>Inter-Bold.ttf</filename>
       <size>32</size>
     </font>
     <font>
       <name>font37</name>
-      <filename>Glory-Regular.ttf</filename>
+      <filename>Inter-Regular.ttf</filename>
       <size>37</size>
     </font>
     <font>
       <name>font45</name>
-      <filename>Glory-Regular.ttf</filename>
+      <filename>Inter-Regular.ttf</filename>
       <size>45</size>
     </font>
     <!-- Big Fonts -->
     <font>
       <name>font_pvr_clock</name>
-      <filename>Glory-Light.ttf</filename>
+      <filename>Inter-Light.ttf</filename>
       <size>55</size>
     </font>
     <font>
       <name>font60</name>
-      <filename>Glory-Regular.ttf</filename>
+      <filename>Inter-Regular.ttf</filename>
       <size>60</size>
       <style>lighten</style>
     </font>
     <font>
       <name>font_clock</name>
-      <filename>Glory-Light.ttf</filename>
+      <filename>Inter-Light.ttf</filename>
       <size>70</size>
       <style>lighten</style>
     </font>
     <font>
       <name>WeatherTemp</name>
       <aspect>0.85</aspect>
-      <filename>Glory-Bold.ttf</filename>
+      <filename>Inter-Bold.ttf</filename>
       <size>120</size>
       <style>bold</style>
     </font>
     <!-- Menu Fonts -->
     <font>
       <name>font_menu</name>
-      <filename>Glory-Regular.ttf</filename>
+      <filename>Inter-Regular.ttf</filename>
       <size>30</size>
     </font>
     <font>
       <name>font_menu_focus</name>
-      <filename>Glory-Bold.ttf</filename>
+      <filename>Inter-Bold.ttf</filename>
       <size>30</size>
     </font>
     <!-- Title Fonts -->
     <font>
       <name>font_flag</name>
-      <filename>Glory-Bold.ttf</filename>
+      <filename>Inter-Bold.ttf</filename>
       <size>18</size>
       <style>bold</style>
     </font>
     <font>
       <name>font20_title</name>
-      <filename>Glory-Bold.ttf</filename>
+      <filename>Inter-Bold.ttf</filename>
       <size>20</size>
       <style>bold</style>
     </font>
     <font>
       <name>font25_title</name>
-      <filename>Glory-Bold.ttf</filename>
+      <filename>Inter-Bold.ttf</filename>
       <size>25</size>
       <style>bold</style>
     </font>
     <font>
       <name>font30_title</name>
-      <filename>Glory-Bold.ttf</filename>
+      <filename>Inter-Bold.ttf</filename>
       <size>30</size>
       <style>bold</style>
     </font>
     <font>
       <name>font32_title</name>
-      <filename>Glory-Bold.ttf</filename>
+      <filename>Inter-Bold.ttf</filename>
       <size>32</size>
       <style>bold</style>
     </font>
     <font>
       <name>font36_title</name>
-      <filename>Glory-Bold.ttf</filename>
+      <filename>Inter-Bold.ttf</filename>
       <size>36</size>
       <style>bold</style>
     </font>
     <font>
       <name>font45_title</name>
-      <filename>Glory-Bold.ttf</filename>
+      <filename>Inter-Bold.ttf</filename>
       <size>45</size>
       <style>bold</style>
     </font>
     <font>
       <name>font52_title</name>
-      <filename>Glory-Bold.ttf</filename>
+      <filename>Inter-Bold.ttf</filename>
       <size>52</size>
       <style>bold</style>
     </font>
     <font>
       <name>font_title_bold</name>
-      <filename>Glory-Bold.ttf</filename>
+      <filename>Inter-Bold.ttf</filename>
       <size>64</size>
       <style>bold</style>
     </font>
